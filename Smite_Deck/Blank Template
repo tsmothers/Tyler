@@ -1,0 +1,36 @@
+<!-- Agni -->
+<div class="Agni">
+  <div class="Image">
+
+  </div>
+  <div class="Description">
+    <div class="Name">
+
+    </div>
+    <div class="Title">
+
+    </div>
+    <div class="Class">
+      <div class="Image">
+        <img src="" />
+      </div>
+      <div class="Class Name">
+
+      </div>
+    </div>
+    <div class="Pantheon">
+      <div class="Image">
+        <img src="" />
+      </div>
+      <div class="Pantheon Name">
+
+      </div>
+    </div>
+    <div class="Power Type">
+      <div class="Image">
+        <img src="" />
+      </div>
+      <div class="Power Type Name">
+
+      </div>
+    </div>
